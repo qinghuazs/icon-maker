@@ -128,3 +128,9 @@ icon-maker/
 - 付费图标库（Flaticon 付费、Icons8 Premium）、iconfont 授权图标
 - 位图图标处理、矢量 path 编辑
 - 动效图标（Lottie、SVG SMIL）
+
+## License
+
+本仓库采用 [MIT](LICENSE) 协议。
+
+注意：通过本 skill 拉取的图标遵循各自图标库的开源协议（如 Lucide ISC、MDI Apache-2.0、Tabler/Heroicons MIT、Simple Icons CC0），品牌 Logo 的商标权归各品牌所有。
